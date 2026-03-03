@@ -1,18 +1,12 @@
-<!doctype html>
 <html>
-<head><title>Which phone is better?</title></head>
+<head>Which phone is better?</head>
   <h1>Which phone is better? Iphone 5, 5s or se1?</h1>
   <p>These are old phones. So if you want to buy one from this table then it is only for the old vibe and nothing more!</p>
-  <style>
-    table, tr, td {
-        border: 1px solid black;
-    }
-</style>
   <table>
   <caption>Characteristics of this phones</caption>
 <thead>
   <tr>
-    <th><img src="https://ilounge.ua/files/products/zamena-korpusa-iphone-5-11.1000x1000.webp" height="150px">Iphone 5</th>
+    <th><img src="https://i.allo.ua/media/catalog/product/cache/1/image/620x600/602f0fa2c1f0d1ba5e241f914e856ff9/e/0/e033d2f41338ca3a8f58b20f26a11c7f_1.webp" height="150px">Iphone 5</th>
     <th><img src="https://mcstore.com.ua/image/cache/iblock/98e/98e49177dec3985b06f4658b0b62de9e-600x600.jpg" height="150px">Iphone 5s</th>
     <th><img src="https://i.allo.ua/media/catalog/product/cache/1/image/620x600/602f0fa2c1f0d1ba5e241f914e856ff9/i/p/iphone_se_23.webp" height="150px">Iphone se1</th>
   </tr>
