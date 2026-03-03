@@ -1,9 +1,9 @@
 <html>
-<head>Which phone is better?</head>
+<head color: #243b55>Which phone is better?</head>
   <h1>Which phone is better? Iphone 5, 5s or se1?</h1>
   <p>These are old phones. So if you want to buy one from this table then it is only for the old vibe and nothing more!</p>
   <table>
-  <caption>Characteristics of this phones</caption>
+  <caption><b>Characteristics of this phones</b></caption>
 <thead>
   <tr>
     <th><img src="https://i.allo.ua/media/catalog/product/cache/1/image/620x600/602f0fa2c1f0d1ba5e241f914e856ff9/5/4/54204aec257cb7eccee972bae8c57555_1.webp" height="150px">Iphone 5</th>
@@ -52,6 +52,7 @@
       <li>Comfortable to use</li>
       <li>Old vibe</li>
       <li>Good price</li>
+      <li>Many colors</li>
     </ul>
   <p>So, I really like these models, I even used one of them. But unfortunately, time has won and now you won't be able to download most of the apps. It's a shame.</p>
 </html>
