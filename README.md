@@ -6,7 +6,7 @@
   <caption>Characteristics of this phones</caption>
 <thead>
   <tr>
-    <th><img src="https://i.allo.ua/media/catalog/product/cache/1/image/620x600/602f0fa2c1f0d1ba5e241f914e856ff9/e/0/e033d2f41338ca3a8f58b20f26a11c7f_1.webp" height="150px">Iphone 5</th>
+    <th><img src="https://i.allo.ua/media/catalog/product/cache/1/image/620x600/602f0fa2c1f0d1ba5e241f914e856ff9/5/4/54204aec257cb7eccee972bae8c57555_1.webp" height="150px">Iphone 5</th>
     <th><img src="https://mcstore.com.ua/image/cache/iblock/98e/98e49177dec3985b06f4658b0b62de9e-600x600.jpg" height="150px">Iphone 5s</th>
     <th><img src="https://i.allo.ua/media/catalog/product/cache/1/image/620x600/602f0fa2c1f0d1ba5e241f914e856ff9/i/p/iphone_se_23.webp" height="150px">Iphone se1</th>
   </tr>
