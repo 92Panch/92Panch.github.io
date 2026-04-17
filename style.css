@@ -93,9 +93,3 @@ body {
             background-color: #ffd57c;
             transition: 0.3s;
         }
-
-        .round-num {
-            font-weight: bold;
-            color: #e1e1e1;
-            width: 120px;
-        }
